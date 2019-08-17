@@ -4,23 +4,14 @@
 
 ## 1. What decisions needs to be made?
 
-## The decision that needs to be made is whether the new load applicants are creditworthy
-
-## or not, and accordingly should they be granted a loan.
+ The decision that needs to be made is whether the new load applicants are creditworthy or not, and accordingly should they be granted a loan.
 
 ## 2. What data is needed to inform those decisions?
+ Some data that is needed to inform such decisions include, annual income, credit score, age, account balance, and loan amount.
 
-## Some data that is needed to inform such decisions include, annual income, credit score,
+## 3. What kind of model (Continuous, Binary, Non-Binary, Time-Series) do we need to use to help make these decisions?
 
-## age, account balance, and loan amount.
-
-## 3. What kind of model (Continuous, Binary, Non-Binary, Time-Series) do we need to use to
-
-## help make these decisions?
-
-## A Binary Classification model should be used since predicting the results of new
-
-## customers (as creditworthy or not) are based on available data.
+ A Binary Classification model should be used since predicting the results of new customers (as creditworthy or not) are based on available data.
 
 # Step 2: Building the Training Set
 
